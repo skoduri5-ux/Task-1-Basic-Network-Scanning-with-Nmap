@@ -78,6 +78,7 @@ Port 8080 is commonly used for HTTP web services and development servers. In thi
 ```bash
 python3 -m http.server 8080
 ```
+<img width="902" height="440" alt="Screenshot 2026-05-27 161147" src="https://github.com/user-attachments/assets/9532362a-105d-47de-aa4a-a5b5a571425b" />
 
 Nmap successfully detected the running service on this port.
 
